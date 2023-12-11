@@ -4,7 +4,7 @@ Recently YouTube changed their player on desktop to more closely imitate the Ree
 
 `/shorts/<ID>` &rightarrow; `/watch?v=<ID>`
 
-| Shorts | With `unshortsen` |
+| Shorts | With `Reshorted` |
 |---|---|
 |![Screenshot of Shorts player](img/before.png)|![Screenshot of standard player](img/after.png)|
 
